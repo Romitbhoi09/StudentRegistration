@@ -1,2 +1,2 @@
 # StudentRegistration
-Student Registration System using PHP and MySQL
+Student Registration System using HTML,CSS,JAVASCRIPT,PHP and MySQL
